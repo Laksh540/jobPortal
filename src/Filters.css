@@ -1,0 +1,18 @@
+.filters {
+    background-color: #f4f4f4;
+}
+
+.appliedFilters {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* .appliedFilters>.content_right {} */
+
+.appliedFilters>.content_right>button {
+    border: none;
+    outline: none;
+    color: #8bc38d;
+    background: transparent;
+    height: 35px;
+}

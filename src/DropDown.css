@@ -1,0 +1,6 @@
+.dropDowm>select {
+    width: 100%;
+    outline: none;
+    border: 1px solid lightgray;
+    height: 30px;
+}

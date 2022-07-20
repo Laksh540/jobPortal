@@ -1,0 +1,21 @@
+.search_btn {
+    display: flex;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid lightgray;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.search_btn>input {
+    border: none;
+    background-color: transparent;
+    width: 80%;
+    outline: none;
+
+}
+
+.search_btn>img {
+    width: auto;
+    height: 20px;
+}

@@ -1,0 +1,21 @@
+.heading>h4 {
+    font-weight: 300;
+    display: inline-block;
+    padding-bottom: 10px;
+    position: relative;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+
+.heading>h4::after {
+    content: "";
+    position: absolute;
+    width: 30%;
+    height: 4px;
+    bottom: 0;
+    left: 2%;
+    border-bottom: 2px solid #6295e3;
+}

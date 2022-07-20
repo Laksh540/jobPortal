@@ -1,0 +1,12 @@
+.job_type {
+    /* line-height: 34px; */
+    background-color: #d3d7e7;
+    height: fit-content;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-radius: 3px;
+}
+
+.job_type span {
+    font-size: 14px;
+}

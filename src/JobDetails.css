@@ -1,0 +1,36 @@
+.backbtn img {
+    height: 25px;
+    width: auto;
+    cursor: pointer;
+}
+
+.btnApply {
+    background: #74a3e8;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 50px;
+    border: none;
+    margin-top: 40px !important;
+
+}
+
+.btnApply:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.line {
+    border: none;
+    border-bottom: 1px solid lightgrey;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+/* .detailsForJob {
+    border-bottom: 1px solid lightgray;
+} */
+
+.job_contents {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}

@@ -1,0 +1,43 @@
+.job_info {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    margin-bottom: 30px;
+
+}
+
+.job_heading h6 {
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.job_details {
+    display: flex;
+    align-items: center;
+}
+
+
+.job_apply {
+    color: #74a3e8;
+    background: white;
+    border: 1px solid #74a3e8;
+    border-radius: 20px;
+    padding: 5px 20px;
+    margin-right: 10px;
+
+}
+
+.job_apply:hover {
+    background: #74a3e8;
+    color: white;
+    text-decoration: none;
+}
+
+.job_view {
+    background: transparent;
+    color: gray;
+    border: none;
+    outline: none;
+    margin-right: 20px;
+}
